@@ -1,4 +1,4 @@
-# Small Programming with Python
+# Programming with Python
 
 <b>Program 1</b> : Count nucleotides (A, T, C, G) in a given DNA sequence.<br>
 <b>Program 2</b> : Transcribe DNA into RNA.<br>
