@@ -4,6 +4,8 @@
 <b>Program 2</b> : Transcribe DNA into RNA.<br>
 <b>Program 3</b> : Translating RNA into Protein.<br>
 <b>Program 4</b> : Convert DNA into Protein.<br>
+<b>Program 5</b> : Find the reverse complement of a given DNA sequence.<br>
+<b>Program 6</b> : Rabbits and Recurrence Relations.<br>
 
 
 ## Cloning the Project from Repo
