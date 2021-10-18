@@ -11,7 +11,7 @@
 ## Cloning the Project from Repo
 
 ```sh
-git clone https://github.com/parvej35/Python-Small-Program.git
+git clone https://github.com/parvej35/Programming-with-Python.git
 ```
 [Git](https://git-scm.com/downloads) should be installed on your system.
 Alternatively, you can download the zip-file or download the individual notebooks.
